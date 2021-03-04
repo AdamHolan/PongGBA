@@ -1,4 +1,4 @@
-Disclaimer: This was not written by me! I copied this for your convenience from my source: https://github.com/JamieDStewart/GBA_VSCode_Basic
+Disclaimer: This tutorial below was not written by me! I copied this for your convenience from my source: https://github.com/JamieDStewart/GBA_VSCode_Basic
 
 # GBA_VSCode_Basic
 A 'simple' Game Boy Advance development setup using Visual Studio Code and relying on devkitPro and devkitARM to do the heavy lifting.
